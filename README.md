@@ -1,10 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Réplica da Página do Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+O propósito desse repositório é o treinamento em HTML e CSS da Dio, onde são aplicados conceitos de Flexbox. 
 
-### Os requisitos são:
+### Não conhece a Dio?
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+* [Site da Dio](https://web.digitalinnovation.one/home)
